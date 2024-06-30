@@ -32,4 +32,4 @@ class Temperature:
 
 temp = Temperature()
 temp.Celsius_to_fahrenheit()
-temp.Fahrenheit_to_celsius
+temp.Fahrenheit_to_celsius()
